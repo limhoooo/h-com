@@ -123,6 +123,7 @@ export default function SignupModal() {
                   className={style.input}
                   type="file"
                   accept="image/*"
+                  value="1"
                   onChange={onChangeImageFile}
                 />
               </div>

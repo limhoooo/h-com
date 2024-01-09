@@ -25,6 +25,7 @@ export default function RightSearchZone() {
                 type="radio"
                 name="pf"
                 defaultChecked
+                value="1"
                 onChange={onChangeAll}
               />
             </div>
